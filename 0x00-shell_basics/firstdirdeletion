@@ -1,0 +1,3 @@
+echo #!/bin/bash > firstdirdeletion
+cd /tmp
+rm -r my_first_directory
