@@ -1,3 +1,4 @@
 echo #!/bin/bash > 7-movethatfile
 cd /tmp
 mv betty /tmp/my_first-directory
+chmod u+x 7-movethatfile
