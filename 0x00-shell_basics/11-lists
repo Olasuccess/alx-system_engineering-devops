@@ -1,0 +1,5 @@
+echo #!/bin/bash > 11-lists
+ls -l -a 0x00-shell_basics
+ls -l -a alx-system_engineering-devops
+ls -l -a boot
+chmod u+x 11-lists
