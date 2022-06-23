@@ -1,3 +1,4 @@
 echo #!/bin/bash > 8-firstdelete
 cd /tmp/my_first_directory
 rm betty
+chmod u+x 8-firstdelete
