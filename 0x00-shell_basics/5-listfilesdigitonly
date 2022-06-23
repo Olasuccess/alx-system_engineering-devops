@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -ltr -a
+echo #!/bin/bash > 5-listfilesdigitonly
+ls -ltr -a 5-listfilesdigionly
