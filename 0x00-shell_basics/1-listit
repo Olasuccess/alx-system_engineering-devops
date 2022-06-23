@@ -1,3 +1,3 @@
-'#!/bin/bash'
-'ls'
-chmod u+x
+echo #!/bin/bash > 1-listit
+ls 1-listit
+chmod u+x 1-listit
