@@ -1,3 +1,2 @@
-echo #!/bin/bash > 5-listfilesdigitonly
-ls -ltr -a 5-listfilesdigionly
-chmod u+x 5-listfilesdigitonly
+#!/bin/bash
+ls -ltr -a
